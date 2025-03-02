@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: d016ac876ee0d0e46a4e2c8b06d9a456
+  - enabled: 1
+    path: Assets/Suriyun/VoxelScene.unity
+    guid: 9e9e287037d35054fa29d835f30c5215
+  m_configObjects: {}
